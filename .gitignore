@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.dll
+*.pyd
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+*.egg-info/
+.eggs/
+.pytest_cache/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+
+# IDE files
+.idea/
+*.iml
+*.suo
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.VC.db
+
+# Virtual environment
+.venv/
+env/
+venv/
+.virtualenv/
+.env/
+
+# Package management
+.env
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+Thumbs.db
+*.DS_Store
+*.orig
+*.out
+*.swp
+*.swo
+.DS_Store
