@@ -6,7 +6,7 @@ All dependencies and project attributes located in `pyproject.toml`.
 You can view all dependencies using:
 poetry show
 ```bash
-    poetry show --tree
+poetry show --tree
 ```
 
 ## Installation
@@ -67,7 +67,7 @@ poetry show
 
 ### User model
 
-####Fields:
+###Fields:
 1.  id - int, Primary key
 2.  first_name - str, Required
 3.  last_name - str, Required
